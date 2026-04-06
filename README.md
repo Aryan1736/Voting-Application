@@ -118,6 +118,3 @@ http://localhost:4200
 - Charts for results  
 - Deployment  
 - Real-time updates  
-
----
-uilt a full-stack Voting Application using Spring Boot, Angular, and MySQL with REST APIs and dynamic UI.
